@@ -1,6 +1,6 @@
 # Hi, I'm Karan Mhatre 👋
 
-**AI & Data Science Graduate · Building LLM-powered apps · Mumbai, India**
+**AI & Data Science Graduate · Mumbai, India**
 
 ![LLM/RAG](https://img.shields.io/badge/LLM%20%2F%20RAG-8B5CF6?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14B8A6?style=flat-square&logo=python&logoColor=white)
@@ -10,38 +10,30 @@
 
 ---
 
-> ⚡ **10-second version:** I build AI systems that do useful things — a prescription explainer, an interview coach, a natural-language data analyst. My stack is Python + LangChain + FastAPI, and I'm actively looking for AI/ML or Data roles to take these skills into production.
+I'm a B.E. graduate in **Artificial Intelligence & Data Science** from A.C. Patil College of Engineering, Navi Mumbai.
+
+I build AI systems that solve real problems — prescription explainers, interview coaches, natural-language data analysts. Not just notebooks and tutorials — actual end-to-end applications people can use.
+
+My work sits at the intersection of **LLMs, retrieval-augmented generation, and backend engineering**. I'm comfortable going from a raw idea to a working API — designing the RAG pipeline, wiring up the LLM, and shipping it with FastAPI or Flask.
+
+I've interned as a **Data Science Intern at Edi Globe**, where I built an LLM-powered HR analyzer that let non-technical teams query employee datasets in plain English. Before that, I supported port-wide IT infrastructure at **JNPA**.
+
+Outside of work, I'm into open source contribution, exploring new LLM tooling, and pushing my DSA skills on LeetCode.
+
+I'm actively looking for **AI/ML or Data internship roles** across India — remote or hybrid — where I can build things that matter.
 
 ---
 
-## 🚀 Projects
+## 🧠 What I work with
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**RxSense AI**](https://github.com/Kakarot35/RxSense-AI) | Scans prescriptions with OCR, explains drug interactions in plain English using RAG + Gemini | FAISS · LangChain · OCR · Gemini |
-| [**DataPilot**](https://github.com/Kakarot35/DataPilot--AI-Natural-Language-Data-Analyst) | Ask your CSV questions in plain English — hybrid NLU engine with 13 analytical intents | FastAPI · Pandas · TF-IDF · OpenAI |
-| [**PrepPal AI**](https://github.com/Kakarot35/PrePal-Ai) | LeetCode-style interview prep with real-time mock interviews and AI resume analysis | React · TypeScript · WebSocket · Firebase |
-| [**PROSE**](https://github.com/Kakarot35/PROSE.git) | Automatically rewrites and scores LLM prompts — tested on 200+ prompts, sub-second inference | Flask · NLP · TF-IDF |
+**AI / ML**
+LangChain · FAISS · RAG · Embeddings · NLP · Prompt Engineering · Gemini · OpenAI · Ollama · Generative AI
 
----
+**Languages & Libraries**
+Python · Pandas · NumPy · Scikit-learn · PyTorch
 
-## 💼 Experience
-
-**Data Science Intern** — Edi Globe *(Jun–Aug 2025, Remote)*
-Built an AI HR Analyzer: LLM-powered natural-language querying over employee datasets.
-
-**Technical Support Intern** — JNPA *(Jun–Aug 2024, Uran)*
-IT support across port-wide infrastructure; database maintenance and escalation coordination.
-
----
-
-## 🧠 Tech Stack
-
-**AI / ML** — LangChain · FAISS · RAG · Gemini · OpenAI · Ollama · Prompt Engineering · NLP · Embeddings
-
-**Languages & Libraries** — Python · Pandas · NumPy · Scikit-learn · PyTorch
-
-**Backend & Tools** — FastAPI · Flask · Streamlit · REST APIs · SQL · PostgreSQL · Git
+**Backend & Tools**
+FastAPI · Flask · Streamlit · REST APIs · Webhooks · SQL · PostgreSQL · Git
 
 ---
 
@@ -49,4 +41,3 @@ IT support across port-wide infrastructure; database maintenance and escalation 
 
 📧 [mhatrekaran989@gmail.com](mailto:mhatrekaran989@gmail.com)
 💻 [github.com/Kakarot35](https://github.com/Kakarot35)
-📍 Uran, Navi Mumbai · Open to remote & hybrid opportunities across India
