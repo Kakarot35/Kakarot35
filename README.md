@@ -84,16 +84,20 @@ NLP-driven intelligent text understanding and language processing system.
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kakarot35&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kakarot35&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakarot35&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🏆 GitHub Achievements
+---
+
+## 🧩 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kakarot35&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakarot35&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -109,11 +113,13 @@ NLP-driven intelligent text understanding and language processing system.
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/karan-mhatre-387794333/">
+<a href="YOUR_LINKEDIN_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-
+<p align="center">
+✨ Building AI systems that solve real-world problems
+</p>
