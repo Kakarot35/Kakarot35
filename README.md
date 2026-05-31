@@ -9,7 +9,7 @@ Building intelligent AI systems, LLM-powered applications, and real-world soluti
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+%26+RAG+Developer;NLP+%26+Generative+AI;Open+Source+Contributor;Building+Real-World+AI+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+%26+RAG+Developer;NLP+%26+Generative+AI;Open+Source+Contributor" />
 </p>
 
 ---
