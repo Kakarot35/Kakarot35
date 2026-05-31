@@ -120,6 +120,4 @@ NLP-driven intelligent text understanding and language processing system.
 
 ---
 
-<p align="center">
-✨ Building AI systems that solve real-world problems
-</p>
+
