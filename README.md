@@ -1,43 +1,125 @@
-# Hi, I'm Karan Mhatre 👋
+<h1 align="center">Hi 👋, I'm Karan Mhatre</h1>
 
-**AI & Data Science Graduate · Mumbai, India**
+<h3 align="center">
+AI & Data Science Engineer • LLM • NLP • Generative AI
+</h3>
 
-![LLM/RAG](https://img.shields.io/badge/LLM%20%2F%20RAG-8B5CF6?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14B8A6?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI%20%C2%B7%20Flask-3B82F6?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP%20%C2%B7%20Embeddings-F59E0B?style=flat-square&logoColor=white)
-![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-6B7280?style=flat-square&logoColor=white)
+<p align="center">
+Building intelligent AI systems, LLM-powered applications, and real-world solutions.
+</p>
 
----
-
-I'm a B.E. graduate in **Artificial Intelligence & Data Science** from A.C. Patil College of Engineering, Navi Mumbai.
-
-I build AI systems that solve real problems — prescription explainers, interview coaches, natural-language data analysts. Not just notebooks and tutorials — actual end-to-end applications people can use.
-
-My work sits at the intersection of **LLMs, retrieval-augmented generation, and backend engineering**. I'm comfortable going from a raw idea to a working API — designing the RAG pipeline, wiring up the LLM, and shipping it with FastAPI or Flask.
-
-I've interned as a **Data Science Intern at Edi Globe**, where I built an LLM-powered HR analyzer that let non-technical teams query employee datasets in plain English. Before that, I supported port-wide IT infrastructure at **JNPA**.
-
-Outside of work, I'm into open source contribution, exploring new LLM tooling, and pushing my DSA skills on LeetCode.
-
-I'm actively looking for **AI/ML or Data internship roles** across India — remote or hybrid — where I can build things that matter.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+Engineer;LLM+%26+RAG+Developer;NLP+%26+Generative+AI;Open+Source+Contributor;Building+Real-World+AI+Applications" />
+</p>
 
 ---
 
-## 🧠 What I work with
+## 🚀 About Me
 
-**AI / ML**
-LangChain · FAISS · RAG · Embeddings · NLP · Prompt Engineering · Gemini · OpenAI · Ollama · Generative AI
-
-**Languages & Libraries**
-Python · Pandas · NumPy · Scikit-learn · PyTorch
-
-**Backend & Tools**
-FastAPI · Flask · Streamlit · REST APIs · Webhooks · SQL · PostgreSQL · Git
+- 🤖 Building **LLM, RAG, NLP, and Generative AI systems**
+- 🧠 Interested in **AI Engineering & Applied Machine Learning**
+- ⚙️ Building **real-world AI applications beyond notebooks**
+- 🔍 Exploring **scalable AI systems and intelligent backend engineering**
+- 🌱 Passionate about **AI products that solve practical problems**
 
 ---
 
-## 📬 Let's Connect
+## 🛠️ Tech Stack
 
-📧 [mhatrekaran989@gmail.com](mailto:mhatrekaran989@gmail.com)
-💻 [github.com/Kakarot35](https://github.com/Kakarot35)
+### 🤖 AI / ML
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+**Core Areas**  
+`LLMs` • `RAG` • `NLP` • `Embeddings` • `Prompt Engineering` • `Generative AI` • `Machine Learning`
+
+**Frameworks & Libraries**  
+`LangChain` • `FAISS` • `Scikit-Learn` • `Pandas` • `NumPy`
+
+---
+
+### ⚙️ Backend & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgresql,mysql,git,github,docker" />
+</p>
+
+`REST APIs` • `Webhooks` • `SQL` • `Backend Development`
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 DataPilot AI — Natural Language Data Analyst
+LLM-powered data analyst that allows users to query structured datasets using natural language and generate insights.
+
+**Tech Stack:**  
+`Python` • `LLMs` • `FastAPI` • `NLP` • `Pandas`
+
+---
+
+### 💊 RxSense AI
+AI-powered healthcare intelligence system focused on intelligent medical information retrieval and analysis.
+
+**Tech Stack:**  
+`Python` • `NLP` • `Machine Learning`
+
+---
+
+### 🧠 PrePal AI
+AI-powered intelligent preparation assistant designed to improve learning and information assistance.
+
+**Tech Stack:**  
+`TypeScript` • `AI APIs`
+
+---
+
+### ✍️ PROSE
+NLP-driven intelligent text understanding and language processing system.
+
+**Tech Stack:**  
+`Python` • `NLP`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kakarot35&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Kakarot35&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kakarot35&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:mhatrekaran989@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Kakarot35">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karan-mhatre-387794333/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ Building AI systems that solve real-world problems
+</p>
